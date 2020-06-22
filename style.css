@@ -1,0 +1,42 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none !important;
+    color: #fff !important;
+}
+
+body {
+    background-color: #f5f5f5 !important;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+}
+
+.max-height {
+    max-height: 275px ;
+}
+
+.gallery-image {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+
+
